@@ -1,0 +1,3 @@
+function extractCapitalCase(input){
+
+}
